@@ -1,0 +1,3 @@
+,charge_id,business_product_instance_id,charge_counter,date,cost,event_type
+0,1,24,1,2022-02-23,148.5,Once
+1,2,25,1,2022-02-11,148.5,Once

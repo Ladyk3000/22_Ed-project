@@ -1,0 +1,4 @@
+{
+  "raw_postgres": "postgresql://airflow:airflow@postgres:5432/postgres",
+  "datamart_postgres": "postgresql://airflow:airflow@postgres:5432/postgres"
+}
